@@ -41,4 +41,4 @@ class Persona{
 		cout<<dn<<"\t";
 		
 		}
-
+ 
